@@ -11,3 +11,9 @@ This project presents the design of a Linear Quadratic Gaussian (LQG) controller
 ---
 
 For the **full report**, [click here to view the PDF](./f16.pdf)
+
+---
+## References
+
+1. Lewis, Frank L., Lihua Xie, and Dan Popa. *Optimal and Robust Estimation: With an Introduction to Stochastic Control Theory.* CRC Press, 2017.
+2. Stevens, Brian L., Frank L. Lewis, and Eric N. Johnson. *Aircraft Control and Simulation: Dynamics, Controls Design, and Autonomous Systems.* John Wiley & Sons, 2015.
