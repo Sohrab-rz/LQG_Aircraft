@@ -5,7 +5,8 @@
 ---
 
 ## Abstract
-This project develops a Linear Quadratic Gaussian (LQG) controller for the lateral dynamics of an F-16 aircraft. The controller ensures coordinated turns by tracking bank angle commands while minimizing sideslip, handling both process and measurement noise effectively.
+This project presents the design of a Linear Quadratic Gaussian (LQG) controller for the lateral dynamics of an F-16 aircraft. The controller is designed to achieve robust dynamic performance in the presence of process and measurement noise. All computations, including the determination of state feedback and Kalman filter gains, were carried out using MATLAB. According to the separation principle, the LQG regulator design procedure is accomplished in two stages: first designing the Kalman filter and then designing the control feedback.
+
 
 ---
 
