@@ -1,4 +1,4 @@
-# Stochastic Control Systems: LQG Design of F-16 Lateral Control System
+# Stochastic Control Systems: LQG Design of F-16 Lateral Control
 
 **Author:** Sohrab Rezaei
 
